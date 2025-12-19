@@ -15,10 +15,10 @@ A full CRUD task management application with secure authentication and a premium
 - Premium Glassmorphism UI
 
 ## Screenshots
-<!-- Add your screenshots here -->
+![Task Manager Demo](screenshots/demo.png)
 
 ## Live Demo
-[https://task-manager-tau-six-53.vercel.app/login](https://task-manager-tau-six-53.vercel.app/login)
+[https://task-manager-tau-six-53.vercel.app/login]
 
 ## Setup Instructions
 ```bash
