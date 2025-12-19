@@ -18,7 +18,7 @@ A full CRUD task management application with secure authentication and a premium
 <!-- Add your screenshots here -->
 
 ## Live Demo
-<!-- Add your live demo link here -->
+[https://task-manager-tau-six-53.vercel.app/login](https://task-manager-tau-six-53.vercel.app/login)
 
 ## Setup Instructions
 ```bash
